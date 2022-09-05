@@ -1,0 +1,18 @@
+table {
+  color: teal;
+  border-style: hidden;
+  font: 20pt times-new-roman;
+  background-color: PapayaWhip;
+  margin: auto;
+  text-align: center;
+}
+.author {
+  color: green;
+  font: 14pt arial;
+}
+.text_in_centre {
+  text-align: center;
+}
+.small_space {
+  height: 5;
+}
